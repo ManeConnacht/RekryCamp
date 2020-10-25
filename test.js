@@ -46,6 +46,6 @@ console.log( "All persons with last name \"Testaaja\" are", findByLastName("Test
 
 console.log( "All persons of age 31 are",  findByAge(31)); 
 
-console.log( "Persons ordered from oldest to youngest are", personsOrderedByAge() )
+console.log( "Persons ordered from oldest to youngest are", personsOrderedByAge() );
 
 
